@@ -5,6 +5,7 @@
 # ecyrbe <ecyrbe@gmail.com>, 2011.
 # Jesse Jaara <jesse.jaara@gmail.com>, 2011.
 # Marko Häiväläinen marko@scemosystems.fi, 2013
+# Sampsa Pirinen sampsa.pirinen@gmail.com, 2015
 #
 msgid ""
 msgstr ""
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-30 16:58-0500\n"
 "PO-Revision-Date: 2011-07-25 18:39+0300\n"
-"Last-Translator: Marko Häiväläinen <marko@scemosystems.fi>\n"
+"Last-Translator: Sampsa Pirinen <sampsa.pirinen@gmail.com>\n"
 "Language-Team: suomi <>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +31,7 @@ msgstr "Klikkaa avataksesi"
 
 #: applet.js:285
 msgid "Settings"
-msgstr ""
+msgstr "Asetukset"
 
 #: applet.js:541
 msgid "Sunrise"
@@ -42,11 +43,11 @@ msgstr "Auringonlasku"
 
 #: applet.js:618
 msgid "Loading current weather ..."
-msgstr "Ladataan säätietoja"
+msgstr "Ladataan säätietoja..."
 
 #: applet.js:619
 msgid "Loading future weather ..."
-msgstr "Ladataan huomisen säätietoja"
+msgstr "Ladataan tulevia säätietoja..."
 
 #: applet.js:641
 msgid "Loading ..."
@@ -58,7 +59,7 @@ msgstr "Odota"
 
 #: applet.js:706
 msgid "Temperature:"
-msgstr "Lämpötila"
+msgstr "Lämpötila:"
 
 #: applet.js:708
 msgid "Humidity:"
@@ -75,7 +76,7 @@ msgstr "Tuulen nopeus:"
 #: applet.js:714
 #, fuzzy
 msgid "Wind Chill:"
-msgstr "Tuulen nopeus:"
+msgstr "Tuntuu:"
 
 #: applet.js:916
 msgid "Tornado"
