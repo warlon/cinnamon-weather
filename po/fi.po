@@ -308,11 +308,11 @@ msgstr "Luode"
 
 #. cinnamon-weather->settings-schema.json->woeidLookup->description
 msgid "Get WOEID"
-msgstr ""
+msgstr "Hae sijaintikoodi (WOEID)"
 
 #. cinnamon-weather->settings-schema.json->pressureUnit->description
 msgid "Atmospheric pressure unit"
-msgstr ""
+msgstr "Ilmanpaineen yksikkö"
 
 #. cinnamon-weather->settings-schema.json->pressureUnit->options
 msgid "psi"
@@ -344,7 +344,7 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->showTextInPanel->description
 msgid "Display current temperature in panel"
-msgstr ""
+msgstr "Näytä lämpötila paneelissa"
 
 #. cinnamon-weather->settings-schema.json->woeid->description
 msgid "WOEID"
@@ -357,7 +357,7 @@ msgstr ""
 #. cinnamon-weather->settings-schema.json->temperatureUnit->description
 #, fuzzy
 msgid "Temperature unit"
-msgstr "Lämpötila"
+msgstr "Lämpötilan yksikkö"
 
 #. cinnamon-weather->settings-schema.json->temperatureUnit->options
 msgid "fahrenheit"
@@ -369,23 +369,23 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->translateCondition->description
 msgid "Translate condition"
-msgstr ""
+msgstr "Suomenna sään kuvaus"
 
 #. cinnamon-weather->settings-schema.json->locationLabelOverride->description
 msgid "Override location label"
-msgstr ""
+msgstr "Korvaa sijaintiotsikko"
 
 #. cinnamon-weather->settings-schema.json->show24Hours->description
 msgid "Display time in 24 hour format"
-msgstr ""
+msgstr "Näytä aika 24 tunnin muodossa"
 
 #. cinnamon-weather->settings-schema.json->showSunrise->description
 msgid "Show sunrise / sunset times"
-msgstr ""
+msgstr "Näytä auringonousu ja -laskuaika"
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->description
 msgid "Wind speed unit"
-msgstr ""
+msgstr "Tuulen nopeuden yksikkö"
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "kph"
@@ -397,7 +397,7 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "knots"
-msgstr ""
+msgstr "solmua"
 
 #. cinnamon-weather->settings-schema.json->windSpeedUnit->options
 msgid "mph"
@@ -405,23 +405,23 @@ msgstr ""
 
 #. cinnamon-weather->settings-schema.json->showCommentInPanel->description
 msgid "Show the weather condition (e.g., \"Windy\", \"Clear\") in the panel"
-msgstr ""
+msgstr "Näytä paneelissa sään sanallinen kuvaus (esim., \"Tuulista\", \"Selkeää\")"
 
 #. cinnamon-weather->settings-schema.json->refreshInterval->description
 msgid "Update interval"
-msgstr ""
+msgstr "Päivitysväli"
 
 #. cinnamon-weather->settings-schema.json->refreshInterval->units
 msgid "minutes"
-msgstr ""
+msgstr "minuuttia"
 
 #. cinnamon-weather->settings-schema.json->useSymbolicIcons->description
 msgid "Symbolic icons"
-msgstr ""
+msgstr "Symbolikuvakkeet"
 
 #. cinnamon-weather->settings-schema.json->showFivedayForecast->description
 msgid "Show 5-day forecast"
-msgstr ""
+msgstr "Näytä 5 päivän ennuste"
 
 #~ msgid "Today"
 #~ msgstr "Tänään"
