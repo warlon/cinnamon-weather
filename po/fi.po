@@ -200,7 +200,7 @@ msgstr "Aurinkoista"
 
 #: applet.js:981
 msgid "Fair"
-msgstr "Lämmintä"
+msgstr "Selkeää"
 
 #: applet.js:983
 msgid "Mixed rain and hail"
